@@ -1,0 +1,30 @@
+De "Les Cayes Airport" a "Cap Haitien International Airport" hay: 233.50334947843766 km 
+De "Les Cayes Airport" a "Jacmel Airport" hay: 134.16719409527605 km 
+De "Les Cayes Airport" a "Toussaint Louverture International Airport" hay: 161.5382043902284 km 
+De "Les Cayes Airport" a "Jérémie Airport" hay: 59.373206523188905 km 
+De "Les Cayes Airport" a "Port-de-Paix Airport" hay: 209.63396298854119 km 
+De "Cap Haitien International Airport" a "Les Cayes Airport" hay: 233.50334947843766 km 
+De "Cap Haitien International Airport" a "Jacmel Airport" hay: 169.39669573658037 km 
+De "Cap Haitien International Airport" a "Toussaint Louverture International Airport" hay: 128.65486741974584 km 
+De "Cap Haitien International Airport" a "Jérémie Airport" hay: 239.21333642222768 km 
+De "Cap Haitien International Airport" a "Port-de-Paix Airport" hay: 71.96292064860245 km 
+De "Jacmel Airport" a "Les Cayes Airport" hay: 134.16719409527605 km 
+De "Jacmel Airport" a "Cap Haitien International Airport" hay: 169.39669573658037 km 
+De "Jacmel Airport" a "Toussaint Louverture International Airport" hay: 44.60621950936592 km 
+De "Jacmel Airport" a "Jérémie Airport" hay: 180.48722873368843 km 
+De "Jacmel Airport" a "Port-de-Paix Airport" hay: 191.42095174756523 km 
+De "Toussaint Louverture International Airport" a "Les Cayes Airport" hay: 161.5382043902284 km 
+De "Toussaint Louverture International Airport" a "Cap Haitien International Airport" hay: 128.65486741974584 km 
+De "Toussaint Louverture International Airport" a "Jacmel Airport" hay: 44.60621950936592 km 
+De "Toussaint Louverture International Airport" a "Jérémie Airport" hay: 198.14125070084205 km 
+De "Toussaint Louverture International Airport" a "Port-de-Paix Airport" hay: 161.48212573769635 km 
+De "Jérémie Airport" a "Les Cayes Airport" hay: 59.373206523188905 km 
+De "Jérémie Airport" a "Cap Haitien International Airport" hay: 239.21333642222768 km 
+De "Jérémie Airport" a "Jacmel Airport" hay: 180.48722873368843 km 
+De "Jérémie Airport" a "Toussaint Louverture International Airport" hay: 198.14125070084205 km 
+De "Jérémie Airport" a "Port-de-Paix Airport" hay: 198.0380663003009 km 
+De "Port-de-Paix Airport" a "Les Cayes Airport" hay: 209.63396298854119 km 
+De "Port-de-Paix Airport" a "Cap Haitien International Airport" hay: 71.96292064860245 km 
+De "Port-de-Paix Airport" a "Jacmel Airport" hay: 191.42095174756523 km 
+De "Port-de-Paix Airport" a "Toussaint Louverture International Airport" hay: 161.48212573769635 km 
+De "Port-de-Paix Airport" a "Jérémie Airport" hay: 198.0380663003009 km 

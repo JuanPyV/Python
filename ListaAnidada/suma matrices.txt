@@ -1,0 +1,7 @@
+mult m1 m2
+resultado
+for r in rangelen m1
+    renglon []
+for c in rangelenm1
+    dato = 0
+    for veces in range

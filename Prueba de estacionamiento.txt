@@ -1,0 +1,18 @@
+import numpy as np
+
+a = np.random.randint(2, size=(10, 15))
+print(a)
+
+row = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
+freeparking = []
+freeslot = 0
+
+for letter in range(len(a)):
+    for slot in range(len(a[letter])):
+        if a[letter][slot] == 0:
+            freeparking.append(row[letter] + str(slot+1))
+            freeslot = freeslot + 1
+
+
+print(freeparking)
+print(freeslot)

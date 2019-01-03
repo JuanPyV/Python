@@ -1,9 +1,13 @@
 try:
     archivo = open("archivo1.txt", "r")
+    alumno = []
 
     for linea in archivo:
-        print(linea.rstrip()) # borra el caracter dentro de .rstrip()
-
+        #print(linea.rstrip()) # borra el caracter dentro de .rstrip()
+        lineaA = linea.strip()
+        linA = lineaA.split(",")
+        alumno.append(linA)
+    print(alumno)
     archivo.close()
 except IOError:
     print("El archivo no existe")
@@ -45,7 +49,5 @@ try:
 
 except IOError:
     print("El archivo no existe")
-
-print(lineas)
 
 

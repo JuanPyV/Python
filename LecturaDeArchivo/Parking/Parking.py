@@ -23,8 +23,11 @@ def lee_archivo():
         for linea in parkeadero:
             lineaP = linea.strip()
             lineaP = lineaP.strip(",")
+            print(lineaP)
             lin = lineaP.split(",")
+            print(lin)
             lineas.append(lin)
+            print(lineas)
 
     except IOError:
         print("El archivo no existe")
